@@ -273,3 +273,43 @@ img{
 }
 
 /* fin de las cards */
+
+/* inicio del footer */
+
+.footer{
+    background-color: #000;
+    padding: 25px 15px;
+
+}
+
+.footer__usuario {
+    text-decoration: none;
+    color: #006241;
+    font-size: 18px;
+}
+
+.footer__container-usuario {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.footer__container-iconos{
+    margin: 10px 0 22px;
+    width: 90px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.footer__container-iconos i{
+    color: #006241;
+    font-size: 18px;
+}
+
+.footer__contacto{
+    text-decoration: none;
+    color: #3ec400;
+}
+
+/* fin del footer */
