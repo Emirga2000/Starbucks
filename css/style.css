@@ -77,3 +77,21 @@ img{
 }
 
 /* fin del main */
+
+/* inicio del gallery */
+
+.gallery{
+    background-color: #006241;
+    padding: 55px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.gallery__img{
+    width: 75%;
+    margin-top: 15px;
+}
+
+/* fin del gallery */
